@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+opencv-python
+simple_image_download
+sklearn
+Pillow
+keras
+seaborn
+pandas
+nltk
+spacy
+streamlit
